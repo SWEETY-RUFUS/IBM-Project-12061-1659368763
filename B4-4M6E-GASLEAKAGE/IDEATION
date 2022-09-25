@@ -1,1 +1,6 @@
-
+IDEATION
+RAMYA-312319106:
+1. Deployment of Wireless sensor nodes 
+2. Each node corresponds to predefined GPS locations of the gas container.
+3. In case of event detection only the stored location can be sent to interested sink. This is possible for industrial gas containers as they are immobile.
+4.In case of mobile containers , an additional GPS sensor can be employed.
