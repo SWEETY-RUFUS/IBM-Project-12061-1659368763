@@ -1,6 +1,20 @@
 IDEATION
-RAMYA-312319106:
+RAMYA-312319106129:
 1. Deployment of Wireless sensor nodes 
 2. Each node corresponds to predefined GPS locations of the gas container.
 3. In case of event detection only the stored location can be sent to interested sink. This is possible for industrial gas containers as they are immobile.
 4.In case of mobile containers , an additional GPS sensor can be employed.
+
+
+SWEETY.R_31319106162:
+1.Creation of application for detection of gas.
+2.Creation of python code for the device.
+3.Development of device for monitoring gas.
+4.Use of sensor for detection.
+
+
+SHAMNI GAYATHRI.D_312319106143:
+1.Monitoring gas through a device.
+2.Detection of gas when it there is a leakage.
+3.Usage of an gas sensing sensor like catalytic sensor.
+4.Creation of link between the device and the application.
