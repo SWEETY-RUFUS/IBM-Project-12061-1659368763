@@ -18,3 +18,10 @@ SHAMNI GAYATHRI.D_312319106143:
 2.Detection of gas when it there is a leakage.
 3.Usage of an gas sensing sensor like catalytic sensor.
 4.Creation of link between the device and the application.
+
+
+SOMASHREE_U_312319106150:
+1.Usage of GSM module will help in sending messages immediately to respective person regarding the leakage.
+2.In case of any leakage detection, proposed system will automatically off the regulator knob of the culinder.
+3.Sensor node will senses other gases(CO2,O2,propane) and if these gases ratios increases abruptly which will notify the respective person.
+4.Usage of LCD display will intimate the people nearby and buzzer sound will make others to be alert.
