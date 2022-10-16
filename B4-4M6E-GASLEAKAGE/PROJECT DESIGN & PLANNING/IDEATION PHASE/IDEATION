@@ -1,0 +1,30 @@
+IDEATION
+RAMYA-312319106129:
+1. Deployment of Wireless sensor nodes 
+2. Each node corresponds to predefined GPS locations of the gas container.
+3. In case of event detection only the stored location can be sent to interested sink. This is possible for industrial gas containers as they are immobile.
+4.In case of mobile containers , an additional GPS sensor can be employed.
+
+
+SWEETY.R_31319106162:
+1.Creation of application for detection of gas.
+2.Creation of python code for the device.
+3.Development of device for monitoring gas.
+4.Use of sensor for detection.
+
+
+SHAMNI GAYATHRI.D_312319106143:
+1.Monitoring gas through a device.
+2.Detection of gas when it there is a leakage.
+3.Usage of an gas sensing sensor like catalytic sensor.
+4.Creation of link between the device and the application.
+
+
+SOMASHREE_U_312319106150:
+1.Usage of GSM module will help in sending messages immediately to respective person regarding the leakage.
+2.In case of any leakage detection, proposed system will automatically off the regulator knob of the culinder.
+3.Sensor node will senses other gases(CO2,O2,propane) and if these gases ratios increases abruptly which will notify the respective person.
+4.Usage of LCD display will intimate the people nearby and buzzer sound will make others to be alert.
+
+
+https://app.mural.co/invitation/mural/stjosephscollegeofengineerin2496/1665033727185?sender=u046b9255812f97e00b643070&key=c2119a0d-c675-4f6b-a889-22e877a6a1d6
